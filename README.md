@@ -2,7 +2,7 @@
 
 Aspiring AI Engineering Student
 
-[View Portfolio](https://nandanpatgar.github.io/PORTFOLIO/)
+[View Portfolio](https://nandanpatgar.github.io/PortFoliO/)
 
 ## About
 
